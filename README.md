@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dnabulsi
 - 👀 I’m interested in learning how create code and think like a programmer.
-- 🌱 I’m currently learning the basics of Computer Science with CS50.
-- 💞️ I’m looking to collaborate on projects related to my courses.
+- 💞️ I’m looking to collaborate on projects related to my passions.
 - 📫 Contact me through github if you have any advice for a newcomer!
 
 <!---

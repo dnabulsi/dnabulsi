@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dnabulsi
+- 👋 Hi, I’m Dana!
 - 👀 I’m a creative and passionate junior software programmer with a high learning drive.
 - 💞️ I’m looking to collaborate on projects related to my passions.
+- 📚 Currently pursuing an MS in CS from Georgia Tech.
 - 📫 Contact me through github if you have any advice for a junior!
 
 <!---

@@ -4,7 +4,7 @@
 - 📚 Currently pursuing an MS in CS from Georgia Tech.
 - 📫 Contact me through GitHub if you have any advice for a junior!
 
-                            [![wakatime](https://wakatime.com/badge/user/bc18311c-54b3-4a9f-93c1-27bf4d125e52.svg)](https://wakatime.com/@bc18311c-54b3-4a9f-93c1-27bf4d125e52)
+[![wakatime](https://wakatime.com/badge/user/bc18311c-54b3-4a9f-93c1-27bf4d125e52.svg)](https://wakatime.com/@bc18311c-54b3-4a9f-93c1-27bf4d125e52)
 
 <!---
 dnabulsi/dnabulsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

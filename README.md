@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dana!
-- 👀 I’m a creative and passionate junior software programmer with a high learning drive.
+- 👀 I’m a creative and passionate software programmer with a high learning drive.
 - 💞️ I’m looking to collaborate on projects related to my passions.
 - 📚 Currently pursuing an MS in CS from Georgia Tech.
-- 📫 Contact me through GitHub if you have any advice for a junior!
+- 📫 Contact me through GitHub if you'd like!
 
 [![wakatime](https://wakatime.com/badge/user/bc18311c-54b3-4a9f-93c1-27bf4d125e52.svg)](https://wakatime.com/@bc18311c-54b3-4a9f-93c1-27bf4d125e52)
 

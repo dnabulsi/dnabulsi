@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dana!
-- 👀 I’m a creative and passionate software programmer with a high learning drive.
+- 👀 I’m a creative and passionate software developer with a high learning drive.
 - 💞️ I’m looking to collaborate on projects related to my passions.
 - 📚 Currently pursuing an MS in CS from Georgia Tech.
 - 📫 Contact me through GitHub if you'd like!

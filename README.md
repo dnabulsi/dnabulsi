@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dana!
-- 👀 I’m a creative and passionate full stack software developer with a passion for Artificial Intelligence/Machine Learning.
+- 👀 I’m a software engineer with a passion for Artificial Intelligence/Machine Learning.
 - 💞️ I’m looking to collaborate on projects related to my passions.
 - 📚 Currently pursuing an MS in CS from Georgia Tech, specializing in Interactive Intelligence/Machine Learning.
 - 📫 Contact me through GitHub if you'd like!

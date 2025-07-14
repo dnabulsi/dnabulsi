@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dana!
 - 👀 I’m a software engineer with a passion for Artificial Intelligence/Machine Learning.
 - 💞️ I’m looking to collaborate on projects related to my passions.
-- 📚 Currently pursuing an MS in CS from Georgia Tech, specializing in Interactive Intelligence/Machine Learning.
+- 📚 Holding an MS in CS from Georgia Tech, specializing in Interactive Intelligence.
 - 📫 Contact me through GitHub if you'd like!
 
 [![wakatime](https://wakatime.com/badge/user/bc18311c-54b3-4a9f-93c1-27bf4d125e52.svg)](https://wakatime.com/@bc18311c-54b3-4a9f-93c1-27bf4d125e52)
